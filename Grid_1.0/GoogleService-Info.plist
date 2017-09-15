@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>391508212378-ntaakvko865h1ivsn1t08b4c36nqj7ve.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.391508212378-ntaakvko865h1ivsn1t08b4c36nqj7ve</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAJ1-se7c43J_Mp4O2gWCEOo0lxKGgjlEY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>391508212378</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.yakuza.Grid-1-0</string>
+	<key>PROJECT_ID</key>
+	<string>grid-fd292</string>
+	<key>STORAGE_BUCKET</key>
+	<string>grid-fd292.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:391508212378:ios:6a24dd075091170d</string>
+	<key>DATABASE_URL</key>
+	<string>https://grid-fd292.firebaseio.com</string>
+</dict>
+</plist>
